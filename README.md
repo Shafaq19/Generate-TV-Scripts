@@ -29,5 +29,6 @@ Conda users can make use of the env.yml file to activate
     `generated_script = generate(trained_rnn, vocab_to_int[prime_word + ':'], int_to_vocab, token_dict, vocab_to_int[pad_word], gen_length)`
 
     `print(generated_script)`
-##Credits
+
+## Credits
 Shafaq Arshad @udacity NanoDegree
