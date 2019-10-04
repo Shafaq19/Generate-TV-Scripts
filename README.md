@@ -31,4 +31,4 @@ Conda users can make use of the env.yml file to activate
     `print(generated_script)`
 
 ## Credits
-Shafaq Arshad @udacity NanoDegree
+Shafaq Arshad @udacity NanoDegree :
